@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Samson Chan👋
 
 - 🔭 I’m currently working on iAscend
 - 🌱 I’m currently learning Mobile App Development
