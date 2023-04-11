@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Samson Chan!
-### Founder of Lassonde Blockchain Asscoaition.
+### A Software Engineer & Founder of Lassonde Blockchain Asscoaition
 
 ### 🔥 GitHub Stats
 
@@ -7,8 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsoncn&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Performance 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samsoncn&theme=codeSTACKr)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samsoncn&theme=moltack)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
