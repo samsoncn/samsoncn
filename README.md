@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Samson Chan]!
+# Hi there 👋, I'm Samson Chan!
 ### Founder of Lassonde Blockchain Asscoaition.
 
 ### 🔥 GitHub Stats
